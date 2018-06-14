@@ -1,0 +1,22 @@
+node_modules/
+build/
+
+# IDE
+.idea/
+*.iml
+.projectFilesBackup
+.project
+
+# Window
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+./tasks/package_fingerprint
+app/config.js
+package_fingerprint
+.DS_Store
+npm-debug.log
+
+#
+my-yapi/
